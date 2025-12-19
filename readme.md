@@ -198,58 +198,18 @@ Speaking score: 7.5
 
 ---
 
-## 🐛 Xatolarni bartaraf etish
-
-### ❌ "IeltsCalculator not found"
-
-**Yechim:**
-```csharp
-using IeltsCalculatorService.Services; // qo'shish
-```
-
-### ❌ "Class ko'rinmayapti"
-
-**Yechim:**
-- `public class IeltsCalculator` ekanini tekshiring
-- Namespace to'g'ri yozilganini tekshiring
-
-### ❌ Reference ishlamayapti
-
-**Yechim:**
-- Solution Explorer → Dependencies → tekshiring
-- Rebuild Solution
-
----
-
-## 🔮 Kelajak rejalar
-
-- [ ] Student class qo'shish
-- [ ] List<Student> bilan ishlash
-- [ ] Unit testlar yozish
-- [ ] ASP.NET Core API yaratish
-- [ ] Database integratsiyasi
-- [ ] Web interface (Blazor/React)
-
----
-
 ## 🤝 Hissa qo'shish
 
 Pull request'lar qabul qilinadi! Katta o'zgarishlar uchun avval issue oching.
 
 ---
 
-## 📝 Litsenziya
-
-MIT License - batafsil ma'lumot uchun [LICENSE](LICENSE) faylini ko'ring.
-
----
-
 ## 👨‍💻 Muallif
 
-**[Sizning ismingiz]**
+**[Jamshidbek]**
 
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
+- GitHub: [@Jamxon](https://github.com/Jamxon)
+- Email: aliyevjamkhan499@gmail.com
 
 ---
 
