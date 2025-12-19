@@ -206,7 +206,7 @@ Pull request'lar qabul qilinadi! Katta o'zgarishlar uchun avval issue oching.
 
 ## 👨‍💻 Muallif
 
-**[Jamshidbek]**
+**Jamshidbek**
 
 - GitHub: [@Jamxon](https://github.com/Jamxon)
 - Email: aliyevjamkhan499@gmail.com
