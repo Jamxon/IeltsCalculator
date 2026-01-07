@@ -2,6 +2,8 @@
 
 > **IELTS Overall Score hisoblash uchun sodda va professional C# kutubxona**
 
+> ![Demo](assets/Animation.gif)
+
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
